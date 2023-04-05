@@ -8,7 +8,7 @@ Java project,kas demostre Git in GitHub lietojumu "Metama kaulina programma"
   - [x] Izveidot GitHub kontu
   - [x] Izveidot GitHub kratuvi
   - [x] Lokalo projektu izvietot GitHub
-  - [ ] Papildinat GitHub saturu iegut lokalai letosanai
+  - [x] Papildinat GitHub saturu iegut lokalai letosanai
   - [ ] Projecktam piesledzies vel viens programetais un izmeiginat kopdarbosanos
-  - [ ] Projekta ieviests jauns zars
+  - [x] Projekta ieviests jauns zars
   - [ ] Sapludinati zari, noversts merge konflikts
