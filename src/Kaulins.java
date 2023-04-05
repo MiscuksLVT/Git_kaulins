@@ -9,7 +9,7 @@ public class Kaulins {
 			skaitlis = rand.nextInt(6)+1;	
 			System.out.println("Uzkrita skaitlis "+skaitlis);
 			if(lielakais <skaitlis)
-				lielakais =skaitlis;
+				lielakais =skaitlis;// cau 
 		}
 	}
 	
